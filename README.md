@@ -1,7 +1,7 @@
 # Processamento de Linguagem Natural
 Códigos desenvolvidos durante as aulas de Processamento de Linguagem Natural (PLN), utilizando Python no ambiente Google Colab para aplicação prática de conceitos e técnicas da área.
 
-### Aula 1 – Configuração do Ambiente
+### Aula 1
 Código demonstra uma pipeline básica de **Processamento de Linguagem Natural** utilizando as bibliotecas **NLTK** e **spaCy**.
 
 O script realiza:
